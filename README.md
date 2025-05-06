@@ -54,9 +54,11 @@ A package is classified as:
 bash
 
 git clone https://github.com/yourusername/package_sorter.git
+
 cd package_sorter
 
 #### 2. Run the Classifier
+
 Create a new Python file (e.g., main.py) and test the function:
 
 from sort_packages import sort
@@ -68,9 +70,11 @@ print(sort(200, 100, 100, 25))  # Expected: REJECTED
 Run it with:
 
 bash
+
 python main.py
 
 #### 3. Run Unit Tests
+
 Use Python’s built-in test runner to execute all unit tests:
 
 python -m unittest test_sort_packages.py
