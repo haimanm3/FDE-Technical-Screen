@@ -53,9 +53,9 @@ A package is classified as:
 
 bash
 
-git clone https://github.com/yourusername/package_sorter.git
-
-cd package_sorter
+    git clone https://github.com/haimanm3/FDE-Technical-Screen.git
+    
+    cd FDE-Technical-Screen
 
 #### 2. Run the Classifier
 
