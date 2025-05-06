@@ -61,25 +61,25 @@ cd package_sorter
 
 Create a new Python file (e.g., main.py) and test the function:
 
-from sort_packages import sort
+  from sort_packages import sort
 
-print(sort(100, 100, 100, 10))  # Expected: SPECIAL
+  print(sort(100, 100, 100, 10))  # Expected: SPECIAL
 
-print(sort(50, 50, 50, 10))     # Expected: STANDARD
+  print(sort(50, 50, 50, 10))     # Expected: STANDARD
 
-print(sort(200, 100, 100, 25))  # Expected: REJECTED
+  print(sort(200, 100, 100, 25))  # Expected: REJECTED
 
-Run it with:
+Then, run it with:
 
 bash
 
-python main.py
+  python main.py
 
 #### 3. Run Unit Tests
 
 Use Python’s built-in test runner to execute all unit tests:
 
-python -m unittest test_sort_packages.py
+  python -m unittest test_sort_packages.py
 
 ---
 
