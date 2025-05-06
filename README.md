@@ -51,7 +51,8 @@ A package is classified as:
 
 #### 1. Clone the Repository
 
-bash /n
+bash
+
 git clone https://github.com/yourusername/package_sorter.git
 cd package_sorter
 
