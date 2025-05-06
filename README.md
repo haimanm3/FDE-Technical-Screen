@@ -93,8 +93,13 @@ Code is readable, maintainable, and designed for fast integration with robotic s
 
 ---
 
-👨‍💻 Author
+### 👨‍💻 Author
+
 Haiman Mohammed
+
 Email: hmohammed_3123@email.ric.edu
+
 LinkedIn: https://www.linkedin.com/in/haimanmohammed/
+
 GitHub: https://github.com/haimanm3
+
